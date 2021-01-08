@@ -1,6 +1,6 @@
 ## `React Webpack`
 
-React_v17 Webpack Babel_v7 starter kit
+Basic React_v17 Webpack Babel_v7 starter kit
 
 ### `npm start`
 
